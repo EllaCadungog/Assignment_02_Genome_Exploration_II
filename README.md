@@ -28,7 +28,7 @@ The genome analysis of *Canis latrans provided information about its genome stru
 Figure 1: Raw genome FASTA preview
 
 
-<img width="1132" height="894" alt="image" src="https://github.com/user-attachments/assets/8c7ada5e-a121-43a8-b9c8-4226edf82aa0" />
+<img width="1612" height="904" alt="image" src="https://github.com/user-attachments/assets/65cc54b7-f79f-4331-9005-a02f0b25b6d7" />
 Figure 2: Original assembly statistics summary 
 
 
