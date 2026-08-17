@@ -38,3 +38,11 @@ Figure 3: ORF prediction using getorf
 
 ## Galaxy Reproducibility & Workflow
 Galaxy History: https://usegalaxy.org/u/EllaCadungog/w/Canis_latrans_genome_exploration_II 
+
+Platform
+
+UseGalaxy.org
+
+Description
+
+This workflow summarizes all automated steps performed in Galaxy for *Canis latrans genome assembly exploration, sequence length filtering, and ORF analysis.
