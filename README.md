@@ -27,11 +27,14 @@ The genome analysis of *Canis latrans provided information about its genome stru
 <img width="1919" height="997" alt="image" src="https://github.com/user-attachments/assets/1cade785-7e23-4a53-8be1-c1e91f5c6646" />
 Figure 1: Raw genome FASTA preview
 
+
 <img width="1132" height="894" alt="image" src="https://github.com/user-attachments/assets/8c7ada5e-a121-43a8-b9c8-4226edf82aa0" />
 Figure 2: Original assembly statistics summary 
 
+
 <img width="1172" height="874" alt="image" src="https://github.com/user-attachments/assets/7974cff1-6c9b-4f2b-9116-97caafffdf61" />
 Figure 3: ORF prediction using getorf
+
 
 ## Galaxy Reproducibility & Workflow
 Galaxy History: https://usegalaxy.org/u/EllaCadungog/w/Canis_latrans_genome_exploration_II 
