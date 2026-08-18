@@ -1,5 +1,5 @@
 ## Assembly Statistics
-Table 4. Comparison of Original and Filtered Genome Assembly Statistics
+Table 4. Comparison of original and filtered genome assembly statistics.
 | Metric | Original Genome – Contigs | Original Genome – Scaffold | After ≥10 kb Filter – Contigs | After ≥10 kb Filter – Scaffold |
 |---|---:|---:|---:|---:|
 | **Total length** | 2,447,418,109 bp | 2,447,463,909 bp | 2,344,462,000 bp | 2,344,462,000 bp |
