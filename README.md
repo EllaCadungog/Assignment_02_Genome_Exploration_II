@@ -45,4 +45,4 @@ UseGalaxy.org
 
 Description
 
-This workflow summarizes all automated steps performed in Galaxy for *Canis latrans genome assembly exploration, sequence length filtering, and ORF analysis.
+This workflow summarizes all automated steps performed in Galaxy for *Canis latrans* genome assembly exploration, sequence length filtering, and ORF analysis.
