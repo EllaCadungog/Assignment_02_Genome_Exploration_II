@@ -32,6 +32,7 @@ Figure 1: Raw genome FASTA preview
 Figure 2: Original assembly statistics summary 
 
 
+
 <img width="1172" height="874" alt="image" src="https://github.com/user-attachments/assets/7974cff1-6c9b-4f2b-9116-97caafffdf61" />
 Figure 3: ORF prediction using getorf
 
