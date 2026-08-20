@@ -38,7 +38,7 @@ The genome analysis of *Canis latrans* provided information about its genome str
 
 
 ## Galaxy Reproducibility & Workflow
-Galaxy History: https://usegalaxy.org/u/EllaCadungog/w/Canis_latrans_genome_exploration_II 
+Galaxy History: https://usegalaxy.org/u/ella_cadungog/h/genome-exploration-ii-cadungog-canis-latrans
 
 Platform
 
